@@ -1,0 +1,32 @@
+.inputText {
+  width: 80%;
+  border-color: green;
+  border: solid;
+  margin-left: 4%;
+}
+.header {
+  text-align: center;
+}
+
+.add {
+  width: 10%;
+  margin-left: 1%;
+  border-color: green;
+}
+p {
+  display: inline;
+}
+button {
+  border: solid;
+  margin-right: 1%;
+  border-color: red;
+}
+.todoText {
+  background-color: lightgreen;
+  width: 92%;
+  margin-top: 1%;
+  margin-left: 4%;
+}
+body {
+  background-color: brown;
+}
